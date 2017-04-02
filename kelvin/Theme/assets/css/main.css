@@ -245,6 +245,7 @@ a:after {
 	background: #222222;
 	padding-top: 15px;
 	text-align: right;
+	padding-right: 15px;
 }
 
 #c p {
@@ -253,7 +254,6 @@ a:after {
 
 #c woc {
 	text-align: left;
-	margin-right: 15px;
 }
 
 
